@@ -51,3 +51,8 @@ final output of the network is the decoded image and it is obtained by applying 
 ![image](https://github.com/ArpitRb/ImageSteganography/assets/121932552/b6fdd16a-50ec-4f81-aef8-0c44ed196d55)
 
 Figure 2: Flow Chart
+
+![image](https://github.com/ArpitRb/ImageSteganography/assets/121932552/ba9f1d5c-2045-4e41-9a60-bc692bdb5fd9)
+Figure 3: Hiding signature, pixel error between cover and encoded cover found to be
+11.623072 per pixel and pixel error between secret and decoded secret images found to
+be 7.7668705 per pixel
