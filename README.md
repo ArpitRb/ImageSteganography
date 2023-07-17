@@ -45,8 +45,3 @@ nated together and passed to more convolutional layers with the same kernel size
 final output of the network is the decoded image and it is obtained by applying a final
 3x3 convolutional layer on the concatenated features.
 
-
-![image](https://github.com/ArpitRb/ImageSteganography/assets/121932552/ba9f1d5c-2045-4e41-9a60-bc692bdb5fd9)
-Figure 3: Hiding signature, pixel error between cover and encoded cover found to be
-11.623072 per pixel and pixel error between secret and decoded secret images found to
-be 7.7668705 per pixel
