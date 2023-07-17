@@ -5,9 +5,6 @@ Network (CNN). Convolutional Neural Networks (CNNs) are a type of neural network
 commonly used in image recognition and computer vision tasks. While CNN are not
 traditionally used for steganography, it is possible to use them for this purpose.
 
-![image](https://github.com/ArpitRb/ImageSteganography/assets/121932552/5d704ecd-e2e3-4f45-9413-939acdaa25ef)
-
-Figure 1: Components of Network
 Development of models consists of two section:
 I. Embedding image in image
 II. Revealing secret image from stego image
@@ -48,9 +45,6 @@ nated together and passed to more convolutional layers with the same kernel size
 final output of the network is the decoded image and it is obtained by applying a final
 3x3 convolutional layer on the concatenated features.
 
-![image](https://github.com/ArpitRb/ImageSteganography/assets/121932552/b6fdd16a-50ec-4f81-aef8-0c44ed196d55)
-
-Figure 2: Flow Chart
 
 ![image](https://github.com/ArpitRb/ImageSteganography/assets/121932552/ba9f1d5c-2045-4e41-9a60-bc692bdb5fd9)
 Figure 3: Hiding signature, pixel error between cover and encoded cover found to be
